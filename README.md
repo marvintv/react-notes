@@ -19,7 +19,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Adding Notes
 - Deleting Notes
 - Being able to save notes to local storage (useEffect React Hook)
-- Searching for a note
+- Searching for a note (utilizes State and Filter function)
  ```javascript
  notes={notes.filter((note) =>
         note.text.toLowerCase().includes(searchText)
