@@ -1,6 +1,5 @@
 # React Notes App
-![image](https://i.imgur.com/GUc6vT5.png = 250x250)
-![test](https://i.imgur.com/GUc6vT5.png)
+![test](https://i.imgur.com/GUc6vT5.png = 250px)
 
 
 ## Installation Steps
