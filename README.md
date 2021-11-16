@@ -43,4 +43,14 @@ It correctly bundles React in production mode and optimizes the build for the be
  ```
 - Character count 
 - Toggle Dark Mode
+```javascript
+const Header = ({handleToggleDarkMode}) => {
+    return(<div className="header">
+            <h1>Notes</h1>
+            <button onClick={() => handleToggleDarkMode(
+                (previousDarkMode)=> !previousDarkMode)
+            } class="save">Toggle Mode</button>
+    </div>);
 
+}
+```
