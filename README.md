@@ -21,7 +21,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Being able to save notes to local storage (useEffect React Hook)
 - Searching for a note
 - notes={notes.filter((note) =>
-          note.text.toLowerCase().includes(searchText)
+ ```        note.text.toLowerCase().includes(searchText) ```
 - Character count 
 - Toggle Dark Mode
 
