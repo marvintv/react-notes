@@ -1,4 +1,5 @@
 # React Notes App
+## Preview of App
 
 <img src="https://i.imgur.com/GUc6vT5.png " width="650px"></img>
 ## Installation Steps
