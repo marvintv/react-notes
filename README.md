@@ -1,4 +1,5 @@
-# React Notes APplication
+# React Notes App
+![](https://i.imgur.com/GUc6vT5.png | width=100)
 
 ## Installation Steps
 
