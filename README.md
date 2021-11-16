@@ -1,6 +1,6 @@
 # React Notes App
 
-<img src="https://i.imgur.com/GUc6vT5.png " width="450px"></img>
+<img src="https://i.imgur.com/GUc6vT5.png " width="650px"></img>
 ## Installation Steps
 
 In the project directory, you can run:
