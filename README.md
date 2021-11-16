@@ -19,6 +19,23 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Adding Notes
 - Deleting Notes
 - Being able to save notes to local storage (useEffect React Hook)
+```javascript
+    useEffect(()=>{
+      const savedNotes = JSON.parse(localStorage.getItem('react-notes-app-data'))
+      
+      if (savedNotes){
+        setNotes(savedNotes);
+      }
+
+    }, [])
+
+    useEffect(() => {
+      localStorage.setItem(
+        'react-notes-app-data',
+         JSON.stringify(notes)
+         );
+    }, [notes]);
+```
 - Searching for a note (utilizes State and Filter function)
  ```javascript
  notes={notes.filter((note) =>
