@@ -22,7 +22,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Searching for a note
  ```javascript
  notes={notes.filter((note) =>
-        note.text.toLowerCase().includes(searchText) ```
+        note.text.toLowerCase().includes(searchText)
+ ```
 - Character count 
 - Toggle Dark Mode
 
