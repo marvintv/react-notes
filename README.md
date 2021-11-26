@@ -6,7 +6,7 @@
 
 In the project directory, you can run:
 
-### `yarn install`
+### `yarn`
 
 ### `yarn start`
 Runs the development server and starts the application on the browser: http://localhost:3000/
