@@ -1,6 +1,6 @@
 # React Notes App
 ## Preview of App
-
+Link to application on web: https://practical-panini-14358b.netlify.app/
 <img src="https://i.imgur.com/GUc6vT5.png " width="650px"></img>
 ## Installation Steps
 
